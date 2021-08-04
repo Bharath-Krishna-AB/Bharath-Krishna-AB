@@ -10,4 +10,4 @@
 
 - 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript based projects**
 
-- 📧 How to reach me? **Connect to me via Email [Bharatha.b](mailto:bharatha.b2007@gmail.com)**
+- 📧 How to reach me? **Connect to me via Email [Bharath](mailto:bharatha.b2007@gmail.com)**
