@@ -33,3 +33,5 @@
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></code>  
     </a>  
 </p>
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abderrahmaneee&layout=compact&title_color=f34f29&text_color=000000&icon_color=FF6C00&locale=" alt="Abderrahmanee" />
