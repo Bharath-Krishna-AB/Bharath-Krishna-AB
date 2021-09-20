@@ -34,4 +34,3 @@
     </a>  
 </p>
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abderrahmaneee&layout=compact&title_color=f34f29&text_color=000000&icon_color=FF6C00&locale=" alt="Abderrahmanee" />
