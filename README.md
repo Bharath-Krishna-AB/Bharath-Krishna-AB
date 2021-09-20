@@ -1,8 +1,14 @@
 
-### Hi there, I'm [Bharath-Krishna-AB](https://github.com/Bharath-Krishna-AB) 
-<p align="center">
-<br><img src="developer.gif" width="280px"><br><br>
-</p>
+### Hi there 👋, my name is Bharath Krishna AB
+#### Backend Developer
+![Backend Developer](https://www.invision2u.com/wp-content/uploads/2017/09/Web-design-agency.jpg)
+
+I am Bharath Krishna AB | 14 years old | A Backend web developer living in Kerala,India. 
+
+Skills: /NODE JS EXPRESS / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
 <h2>Glad to see you here</h2>
 <p>Hi, I'm Bharath-Krishna-AB, a passionate FrontEnd developer.</p>
 
