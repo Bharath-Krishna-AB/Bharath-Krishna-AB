@@ -34,3 +34,4 @@
     </a>  
 </p>
 
+[![Bharath-Krishna-AB's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharath-Krishna-AB)](https://github.com/Bharath-Krishna-AB/github-readme-stats)
