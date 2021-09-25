@@ -1,5 +1,5 @@
 
-### Hi there 👋, my name is Bharath Krishna AB
+### Hi there 👋, my name is Bharath Krishna AB | ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
 #### Backend Developer
 ![Backend Developer](https://www.invision2u.com/wp-content/uploads/2017/09/Web-design-agency.jpg)
 
